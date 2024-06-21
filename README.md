@@ -8,7 +8,7 @@
 ![image](https://github.com/SaarGamzo/EX2_Reverse_Engineering_Survive_Game/assets/88244818/231a5c76-73d0-44ef-996e-a145e1ffc13e)
 
 * Each digit from the user's ID number is being saved into an array (size = 9) after modulo 4 action (digit % 4), which means the saved values can be: 0,1,2,3. 
-* After the use click on Start Game button he being navigated to the Activity_Game screen, which shows 4 arrows (up,right,down,left).
+* After the user click on Start Game button he being navigated to the Activity_Game screen, which shows 4 arrows (up,right,down,left).
 * Each arrow have an integer value (0,1,2,3).
 * The user should click 9 times on the arrows with the correct saved sequence in order to "Survive", if a wrong arrow will be clicked - the user will get a failure message.
 ### Values of arrows:
