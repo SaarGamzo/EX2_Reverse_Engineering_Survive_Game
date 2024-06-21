@@ -1,0 +1,9 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.SaarGamzo_EX2_Reverse_Engineering_APK" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+    </style>
+
+    <style name="Theme.SaarGamzo_EX2_Reverse_Engineering_APK" parent="Base.Theme.SaarGamzo_EX2_Reverse_Engineering_APK" />
+</resources>
