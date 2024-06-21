@@ -1,4 +1,4 @@
-# Saar Gamzo - Mobile Security course - Ex No. 2 - Reverse Engineering Survive Game apk
+# Mobile Security course - Ex No. 2 - Reverse Engineering Survive Game apk
 
 <img src="https://github.com/SaarGamzo/EX2_Reverse_Engineering_Survive_Game/assets/88244818/c4df448a-c699-4c7a-b579-997326e85cea" width="400" height="800">
 
