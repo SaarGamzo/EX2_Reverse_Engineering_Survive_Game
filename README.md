@@ -19,8 +19,8 @@
 
 ### Example:
 * ID = 123456789
-* Survive place will be the 7 position character (which is 8) - Michigan
-* Array of id digits module 4 will be: [1,2,3,0,1,2,3,0,1]
+* Survive place will be the 7 position character (which is 8) = Michigan
+* Array of id digits modulo 4 will be: [1,2,3,0,1,2,3,0,1]
 * Arrow correct sequence will be: [Right, Up, Down, Left, Right, Up, Down, Left, Right]
 <img src="https://github.com/SaarGamzo/EX2_Reverse_Engineering_Survive_Game/assets/88244818/778c89f4-5c61-44de-91bd-38d227ba009c" width="400" height="800">
 
